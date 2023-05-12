@@ -1,1 +1,8 @@
 newHan
+Chạy lệnh git add
+git add <tên file> hoặc git add *
+
+Commit code và comment
+git commit -m "<nội dung comment>“
+
+Menu git commit của TortoiseGit đã bao gồm cả lệnh add và commit
